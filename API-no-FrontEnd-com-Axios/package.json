@@ -1,0 +1,14 @@
+{
+  "name": "api-no-frontend-com-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GET_POST_PUT_DEL_Axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
